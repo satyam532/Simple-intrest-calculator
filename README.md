@@ -1,2 +1,2 @@
 # Simple-intrest-calculator
-Simple Intrest Calculator
+Website for Simple Intrest Calculator using HTML,CSS and Javascript 
